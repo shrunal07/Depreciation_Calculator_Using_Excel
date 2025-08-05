@@ -2,7 +2,7 @@
 
 ## Project Overview: Depreciation Calculator – A Comparative Analysis
 ### Objective:
-This project presents a comparative analysis of two fundamental depreciation methods—Straight-Line and Diminishing Balance—to understand their financial implications and practical applications. Using real-world examples and year-wise calculations, the project evaluates how each method impacts asset value over time, offering critical insights for financial planning and asset management.
+This project presents a comparative analysis of two fundamental depreciation methods Straight-Line and Diminishing Balance to understand their financial implications and practical applications. Using real-world examples and year-wise calculations, the project evaluates how each method impacts asset value over time, offering critical insights for financial planning and asset management.
 
 ### Scope:
 Understand the core concepts and formulas behind both depreciation methods.
